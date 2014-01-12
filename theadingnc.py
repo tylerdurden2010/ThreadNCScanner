@@ -16,3 +16,4 @@ while test:
     time.sleep(5)
     test = IPHandle.readline()
     test = test.strip('\n')
+exit(0)
